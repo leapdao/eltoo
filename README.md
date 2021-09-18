@@ -21,7 +21,7 @@ Key management:
 - [ ] support WalletConnect
 
 Features:
-- [ ] automatic rebalancing
+- [ ] automatic rebalancing using Hop.exchange
 - [ ] QR codes for receive money
 - [ ] QR scanner to send money
 - [ ] request specific amount
