@@ -1,0 +1,15 @@
+{
+  "name": "rebalance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rebalance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hop-protocol/sdk": "^0.0.1-beta.180",
+    "ethers": "^5.4.6"
+  }
+}
